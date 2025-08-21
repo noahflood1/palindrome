@@ -3,7 +3,7 @@
 # Check some different strings for multiple conditions, 
 # utilizing short-circuiting for simpler conditions.
 
-from palindrome import is_palindrome
+from solution.palindrome import is_palindrome
 
 words = [
     "apple", "banana", "cat", "dog", "elephant", "fish", "grape", "house", "ice", "jungle",
