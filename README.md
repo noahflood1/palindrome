@@ -25,20 +25,25 @@ Given a string, how would you determine if that string is a palindrome or not?
 ## To get started:
 
 1. Clone the repo:
-   **`git clone [repo URL]`**
+**`git clone [repo URL]`**
 
 2. Navigate into the directory:
-	**`cd palindrome/`**
+**`cd palindrome/`**
 
 3. Make sure you have python installed and working by running:
-   **`python runner.py`**
+**`python runner.py`**
 
-4. Start typing your solution to the problem in 'my_solution.py.' To test it, just run 'python runner.py' in the commandline!
+4. Start typing your solution to the problem in `my_solution.py.` 
+To test it, just run `python runner.py` in the commandline!
 
 5. To run my solution, simply comment-out the line:
-   **`from my_solution import is_palindrome`**
-   and un-comment the line
-   **`# from palindrome import is_palindrome`**
-	in **`runner.py`**
+
+**`from my_solution import is_palindrome`**
+
+and un-comment the line
+
+**`# from palindrome import is_palindrome`**
+
+in **`runner.py`**
 
 ## Good luck!!
