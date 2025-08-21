@@ -2,7 +2,7 @@ I had a dream last night that someone asked me how to check some strings for dif
 I decided to turn it into an educational resource of sorts, since I quite like this coding problem.
 
 I'm sure this has been done a million times before and in much better, more elegant ways,
-but I think there is value it nonetheless.
+but I think there is still value in it nonetheless.
 
 # Hello, code learner!
 
