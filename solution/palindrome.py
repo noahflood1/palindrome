@@ -40,3 +40,4 @@ def is_palindrome_v2(string):
 		i+=1
 	return True
 
+# TODO: out of curiosity, see what funcitons exist in javascript to implement this
